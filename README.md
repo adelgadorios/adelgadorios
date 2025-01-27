@@ -1,6 +1,6 @@
 # Hello !
-My name is Alejandro Delgado, I am a fourth year **Computer Science** student at the University of South Florida.
-- Open Source Enthusiast who is currently focused on conducting research related to Natural Language Processing(NLP) in order to create the first widely available open source translator for my native language Guarani.
+My name is Alejandro Delgado, I am a **Computer Science** PhD student at the University of South Florida.
+- Open Source Enthusiast who is currently focused on human Computer Interaction (HCI) research @ UDH EnCoDe research lab.
 - Avid Linux user
 Feel free to contact me through my school email : alejandrodel@usf.edu
 <!---
