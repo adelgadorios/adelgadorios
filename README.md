@@ -33,9 +33,7 @@ My research is in **Human-Computer Interaction (HCI)**, focusing on understandin
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://adelgadorios.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d6efd?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/alejandrodelgadorios" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -44,6 +42,9 @@ My research is in **Human-Computer Interaction (HCI)**, focusing on understandin
   </a>
   <a href="mailto:alejandrodel@usf.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+    <a href="https://adelgadorios.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d6efd?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Personal Website"/>
   </a>
 </p>
 
