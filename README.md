@@ -14,7 +14,7 @@ My research is in **Human-Computer Interaction (HCI)**, focusing on understandin
 
 <br/>
 
-## Publications
+## 📝 Publications
 
 -   **"Because we are human, we use hands": Understanding People's Expectations and Mental Models of Virtual Object Interaction in AR Headsets.** (2025). *CHI Conference on Human Factors in Computing Systems (CHI EA '25)*.
 -   **"If you are a Star Wars fan, use the force": Exploring Children's Virtual-Object Interaction Preferences in AR Headsets.** (2025). *Submitted to CHI '26*. (Under Review)
